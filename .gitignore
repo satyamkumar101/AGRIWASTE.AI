@@ -1,0 +1,41 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+.streamlit/secrets.toml
+
+# Local Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment/secrets
+.env
+.streamlit/secrets.toml
+
+# Training dataset
+data/
+
+# User-generated uploads
+uploads/
+user_uploads/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

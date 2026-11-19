@@ -1,0 +1,14 @@
+# Core application
+streamlit
+tensorflow
+numpy
+pillow
+plotly
+
+# Data processing and model evaluation
+pandas
+scikit-learn
+matplotlib
+
+# Production note: authentication, PostgreSQL, object storage and API dependencies
+# will be added when the backend/API phase begins.

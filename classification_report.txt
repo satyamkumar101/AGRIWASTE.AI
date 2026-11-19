@@ -1,0 +1,36 @@
+                     precision    recall  f1-score   support
+
+             Cherry       0.60      1.00      0.75         6
+       Coffee-plant       0.50      0.20      0.29         5
+           Cucumber       0.80      0.67      0.73         6
+   Fox_nut(Makhana)       1.00      0.75      0.86         4
+              Lemon       1.00      0.40      0.57         5
+         Olive-tree       0.62      1.00      0.77         5
+Pearl_millet(bajra)       1.00      0.71      0.83         7
+      Tobacco-plant       0.60      1.00      0.75         6
+             almond       1.00      0.50      0.67         4
+             banana       0.75      1.00      0.86         6
+           cardamom       1.00      0.50      0.67         4
+             chilli       0.75      0.75      0.75         4
+              clove       0.60      0.60      0.60         5
+            coconut       1.00      1.00      1.00         5
+             cotton       0.71      0.83      0.77         6
+               gram       1.00      0.60      0.75         5
+              jowar       0.71      1.00      0.83         5
+               jute       0.80      1.00      0.89         4
+              maize       0.67      1.00      0.80         6
+        mustard-oil       1.00      1.00      1.00         5
+             papaya       1.00      0.50      0.67         4
+          pineapple       1.00      1.00      1.00         5
+               rice       0.83      1.00      0.91         5
+           soyabean       0.57      0.80      0.67         5
+          sugarcane       1.00      0.80      0.89         5
+          sunflower       1.00      1.00      1.00         5
+                tea       1.00      0.50      0.67         4
+             tomato       0.83      1.00      0.91         5
+vigna-radiati(Mung)       0.50      0.20      0.29         5
+              wheat       1.00      1.00      1.00         6
+
+           accuracy                           0.79       152
+          macro avg       0.83      0.78      0.77       152
+       weighted avg       0.82      0.79      0.77       152
